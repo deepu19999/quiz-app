@@ -26,7 +26,7 @@ This repository contains a fully functional ```Quiz Application``` built using `
    ```bash
    cd quiz-app
    ```
-3. Open the ```main.html``` file in your browser.
+3. Open the ```index.html``` file in your browser.
 4. Select a genre and start the quiz!
 
 ## Screenshots
